@@ -2,7 +2,6 @@
 Ej. aplicacion gateway. Socket gateway/sql/storeProcedure
 
 <h1>NodeJs</h1>
-Solo NodeJs<br>
 Modulos:<br>
 1-mssql(conexion bd sql)<br>
 2-websocket<br>
